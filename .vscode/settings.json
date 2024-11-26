@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "D:/python/3.12.3/env/test/Scripts/python.exe",
+    "editor.defaultFoldingRangeProvider": "ms-python.python",
+    "editor.unfoldOnClickAfterEndOfLine": false,
+    "editor.foldingStrategy": "indentation",
+    "files.autoSave": "afterDelay"
+}
